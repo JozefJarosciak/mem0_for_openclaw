@@ -25,7 +25,7 @@ This guide fixes that with a proper self-hosted stack:
 
 Scored across 15 real criteria (persistence, privacy, cost, debuggability, architecture, operations):
 
-
+![Cloud vs Self-hosted comparison](https://raw.githubusercontent.com/JozefJarosciak/mem0_for_openclaw/main/comparison.jpg)
 
 | | Cloud (managed) | Self-hosted (this guide) |
 |---|---|---|
