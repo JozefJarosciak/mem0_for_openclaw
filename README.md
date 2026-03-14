@@ -1,4 +1,4 @@
-# mem0_for_openclaw
+# Persistent Memory for OpenClaw — Self-hosted Mem0 + Qdrant
 
 A self-installing Mem0 + Qdrant persistent memory upgrade for [OpenClaw](https://openclaw.ai).
 
