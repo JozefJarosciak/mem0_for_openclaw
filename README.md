@@ -1,6 +1,6 @@
 # Persistent Memory for OpenClaw (Self-hosted Mem0 + Qdrant)
 
-A self-installing Mem0 + Qdrant persistent memory upgrade for [OpenClaw](https://openclaw.ai).
+OpenClaw agents forget everything when a session ends, this instructions give it a memory that actually sticks. It wires up Mem0 + local Qdrant as a fully self-hosted (or via openrouter), privacy-first memory layer that persists across restarts, extracts atomic facts from your conversations, and recalls the right context exactly when needed. Your Markdown files stay untouched as the source of truth, while Mem0 handles semantic search on top, all running locally with zero cloud dependency once set up. A self-installing Mem0 + Qdrant persistent memory upgrade for [OpenClaw](https://openclaw.ai).
 
 ![Persistent Memory for OpenClaw](https://raw.githubusercontent.com/JozefJarosciak/mem0_for_openclaw/main/architecture.png)
 
