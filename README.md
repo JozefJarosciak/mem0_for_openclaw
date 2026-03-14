@@ -88,7 +88,7 @@ Single word. That's it. It'll resume and finish the rest on its own.
 
 This guide was produced from a real migration on a production OpenClaw instance. Every issue documented — the missing `ollama` npm dependency, the Qdrant version warnings, the 409 conflict noise, the junk memory cleanup — was encountered and resolved in practice.
 
-The full comparison chart and both X posts that accompany this repo are linked in the [original thread](https://x.com/JozefJarosciak).
+The full comparison chart and both X posts that accompany this repo are linked in the [original thread]([https://x.com/xenpub/status/2032839708816896375](https://x.com/xenpub/status/2032839708816896375)).
 
 ---
 
