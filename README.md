@@ -2,6 +2,8 @@
 
 A self-installing Mem0 + Qdrant persistent memory upgrade for [OpenClaw](https://openclaw.ai).
 
+![Persistent Memory for OpenClaw](https://raw.githubusercontent.com/JozefJarosciak/mem0_for_openclaw/main/architecture.png)
+
 Attach the `.md` file to your OpenClaw chat, hit send, and it walks itself through the entire setup — detecting your OS, paths, and architecture automatically. No manual config hunting required.
 
 ---
